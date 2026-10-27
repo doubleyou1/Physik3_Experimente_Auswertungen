@@ -1,0 +1,10 @@
+# alles ignorieren außer meine Auswertungen
+*
+!*/
+!17Mi_*.ipynb
+!M1 Drehpendel nach Pohl/M1 Drehpendel nach Pohl.ipynb
+!Readme.md
+!.gitignore
+
+.venv/
+.ipynb_checkpoints/
