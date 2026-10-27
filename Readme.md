@@ -8,5 +8,5 @@ M2: Gekoppelte Pendel
 M3: Elastizität
 M4: Stoßgesetze
 
-Messdaten und der fertige Versuchsberichtr werden nicht mit hochgeladen.
+Messdaten und der fertige Versuchsberichte werden nicht mit hochgeladen.
 
